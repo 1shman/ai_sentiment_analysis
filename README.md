@@ -1,0 +1,5 @@
+### Reddit Post Sentiment Analysis and the Public Opinion of Artificial Intelligence ###
+
+### Motivation: ###
+
+We are interested in understanding the public perception of LLMs and the AI industry. The value of the AI industry is perceived to be artificially inflated by internal investments between hardware and software companies (i.e. Nvidia -> OpenAI) and a general optimism that the benefits of AI will be massive. However, the industry is largely not profitable. Nvidia is wildly profitable because they invest in the companies that buy their products, but every other AI company is operating at a massive loss. Their stock values remain high because their CEOs and everyone else following them are optimistic that the investment into AI will lead to extreme benefits down the road, but what happens if the public no longer believes in the power of AI? What if they start not caring about marginal improvements in LLM accuracy and are concerned about the cost? If we can better understand public sentiment about AI, we might be able to better make predictions about the future of the AI bubble.
